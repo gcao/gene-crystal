@@ -1,3 +1,5 @@
+require "./gene/parser"
+
 module Gene
   VERSION = "0.1.0"
 
